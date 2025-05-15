@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a884b0a-9d1f-412d-a949-68b084562d59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Anagram_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First_non_reapeated_character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reverse_each_word_in_string.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Count_character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Count_character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Duplicate_characacter_in_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duplicate_characacter_in_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Duplicate_character_in_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duplicate_character_in_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/How_to_count_words_Present_in_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/How_to_count_words_Present_in_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ocuurence_of_character_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ocuurence_of_character_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Remove_junk_character_from_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Remove_junk_character_from_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Remove_white_space_in_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Remove_white_space_in_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reverse_a_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverse_a_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reverse_a_string_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverse_a_string_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_character_occurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_character_occurence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Total_number_of_character_in_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Total_number_of_character_in_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/count_each_character_ocuurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/count_each_character_ocuurence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string_is_palindrome_or_not.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_is_palindrome_or_not.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +48,7 @@
     "Application.Remove_white_space_in_string.executor": "Run",
     "Application.Reverse_a_string.executor": "Run",
     "Application.Reverse_a_string_2.executor": "Run",
+    "Application.Reverse_each_word_in_string.executor": "Run",
     "Application.String2.executor": "Run",
     "Application.String_1.executor": "Run",
     "Application.String_character_occurence.executor": "Run",
@@ -79,21 +62,7 @@
     "onboarding.tips.debug.path": "C:/Users/Atul/IdeaProjects/String_In_java/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.First_non_reapeated_character">
-    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Anagram" />
-      <module name="String_In_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Anagram_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Anagram_2" />
-      <module name="String_In_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Reverse_each_word_in_string">
     <configuration name="Count_character" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Count_character" />
       <module name="String_In_java" />
@@ -108,6 +77,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Reverse_each_word_in_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse_each_word_in_string" />
+      <module name="String_In_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Total_number_of_character_in_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Total_number_of_character_in_string" />
+      <module name="String_In_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="count_each_character_ocuurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="count_each_character_ocuurence" />
       <module name="String_In_java" />
@@ -117,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse_each_word_in_string" />
+        <item itemvalue="Application.Count_character" />
+        <item itemvalue="Application.Total_number_of_character_in_string" />
         <item itemvalue="Application.First_non_reapeated_character" />
         <item itemvalue="Application.count_each_character_ocuurence" />
-        <item itemvalue="Application.Count_character" />
-        <item itemvalue="Application.Anagram_2" />
-        <item itemvalue="Application.Anagram" />
       </list>
     </recent_temporary>
   </component>
