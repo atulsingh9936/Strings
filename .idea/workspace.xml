@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a884b0a-9d1f-412d-a949-68b084562d59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Reverse_each_word_in_string.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reverse_each_word_in_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverse_each_word_in_string.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     "Application.Remove_white_space_in_string.executor": "Run",
     "Application.Reverse_a_string.executor": "Run",
     "Application.Reverse_a_string_2.executor": "Run",
-    "Application.Reverse_each_word_in_string.executor": "Run",
+    "Application.Reverse_each_word_in_string.executor": "Debug",
     "Application.String2.executor": "Run",
     "Application.String_1.executor": "Run",
     "Application.String_character_occurence.executor": "Run",
@@ -137,6 +137,11 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="9" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reverse_each_word_in_string.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

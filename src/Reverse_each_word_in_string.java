@@ -1,6 +1,6 @@
 public class Reverse_each_word_in_string {
     public static void main(String[] args) {
-    /*    String str = "Welcome to java";
+        String str = "Welcome to java";
       String[] words= str.split(" ");
 
       String reversedstring ="";
@@ -14,13 +14,11 @@ public class Reverse_each_word_in_string {
 
           reversedstring = reversedstring+reverseword+" ";
       }
-
-
-        System.out.println(reversedstring);*/
+      System.out.println(reversedstring);
 
 
         //Approach 2
-        String str="welcome to java";
+      /*  String str="welcome to java";
 
      String[] words=   str.split("\\s");
 
@@ -32,6 +30,7 @@ public class Reverse_each_word_in_string {
          reversedword = reversedword+sb.toString()+" ";
      }
         System.out.println(reversedword);
-     }
+     }*/
 
+    }
 }
