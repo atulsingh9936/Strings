@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a884b0a-9d1f-412d-a949-68b084562d59" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Remove_duplicate_charcater_from_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reverse_a_word_in_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reverse_a_word_in_string_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Space_count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/find_and_remove_duplicate_charcaters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reverse_each_word_in_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverse_each_word_in_string.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +52,17 @@
     "Application.Remove_white_space_in_string.executor": "Run",
     "Application.Reverse_a_string.executor": "Run",
     "Application.Reverse_a_string_2.executor": "Run",
+    "Application.Reverse_a_word_in_string.executor": "Run",
+    "Application.Reverse_a_word_in_string_1.executor": "Debug",
     "Application.Reverse_each_word_in_string.executor": "Debug",
+    "Application.Space_count.executor": "Run",
     "Application.String2.executor": "Run",
     "Application.String_1.executor": "Run",
     "Application.String_character_occurence.executor": "Run",
     "Application.String_reverse.executor": "Run",
     "Application.Total_number_of_character_in_string.executor": "Run",
     "Application.count_each_character_ocuurence.executor": "Run",
+    "Application.find_and_remove_duplicate_charcaters.executor": "Run",
     "Application.string_is_palindrome_or_not.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -62,37 +70,37 @@
     "onboarding.tips.debug.path": "C:/Users/Atul/IdeaProjects/String_In_java/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Reverse_each_word_in_string">
-    <configuration name="Count_character" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Count_character" />
+  <component name="RunManager" selected="Application.Remove_duplicate_charcater_from_string">
+    <configuration name="Remove_duplicate_charcater_from_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Remove_duplicate_charcater_from_string" />
       <module name="String_In_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="First_non_reapeated_character" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="First_non_reapeated_character" />
+    <configuration name="Reverse_a_word_in_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse_a_word_in_string" />
       <module name="String_In_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_each_word_in_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reverse_each_word_in_string" />
+    <configuration name="Reverse_a_word_in_string_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse_a_word_in_string_1" />
       <module name="String_In_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Total_number_of_character_in_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Total_number_of_character_in_string" />
+    <configuration name="Space_count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Space_count" />
       <module name="String_In_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="count_each_character_ocuurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="count_each_character_ocuurence" />
+    <configuration name="find_and_remove_duplicate_charcaters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="find_and_remove_duplicate_charcaters" />
       <module name="String_In_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Reverse_each_word_in_string" />
-        <item itemvalue="Application.Count_character" />
-        <item itemvalue="Application.Total_number_of_character_in_string" />
-        <item itemvalue="Application.First_non_reapeated_character" />
-        <item itemvalue="Application.count_each_character_ocuurence" />
+        <item itemvalue="Application.Remove_duplicate_charcater_from_string" />
+        <item itemvalue="Application.find_and_remove_duplicate_charcaters" />
+        <item itemvalue="Application.Space_count" />
+        <item itemvalue="Application.Reverse_a_word_in_string_1" />
+        <item itemvalue="Application.Reverse_a_word_in_string" />
       </list>
     </recent_temporary>
   </component>
@@ -137,11 +145,6 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="9" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Reverse_each_word_in_string.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
