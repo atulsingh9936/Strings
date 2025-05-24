@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a884b0a-9d1f-412d-a949-68b084562d59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Check_if_Substring_is_Present_in_a_Given_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duplicate_words_ina_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Find_Index_of_firstoccurence_insubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Longest_Substring_Without_Repeating_Characters_Using_Sliding_Window_and_HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reverse_only_letters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reverse_only_vowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Count_vowel_consonant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Countspace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_program_to_swap_to_two_strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pangram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplaceVowelswithx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,75 +38,80 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Anagram_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Check_if_Substring_is_Present_in_a_Given_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Count_character.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Duplicate_characacter_in_string.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Duplicate_character_in_string.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Duplicate_words_ina_string.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Find_Index_of_firstoccurence_insubstring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.First_non_reapeated_character.executor&quot;: &quot;Run&quot;,
-    &quot;Application.How_to_count_words_Present_in_string.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Longest_Substring_Without_Repeating_Characters_Using_Sliding_Window_and_HashMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ocuurence_of_character_string.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Remove_duplicate_charcater_from_string.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Remove_junk_character_from_string.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Remove_white_space_in_string.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_a_string.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_a_string_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_a_word_in_string.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_a_word_in_string_1.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Reverse_each_word_in_string.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Reverse_only_letters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Space_count.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_character_occurence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Total_number_of_character_in_string.executor&quot;: &quot;Run&quot;,
-    &quot;Application.count_each_character_ocuurence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.find_and_remove_duplicate_charcaters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.string_is_palindrome_or_not.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Atul/IdeaProjects/String_In_java/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Anagram.executor": "Run",
+    "Application.Anagram_2.executor": "Run",
+    "Application.Check_if_Substring_is_Present_in_a_Given_String.executor": "Run",
+    "Application.Count_character.executor": "Run",
+    "Application.Count_vowel_consonant.executor": "Run",
+    "Application.Duplicate_characacter_in_string.executor": "Run",
+    "Application.Duplicate_character_in_string.executor": "Run",
+    "Application.Duplicate_words_ina_string.executor": "Run",
+    "Application.Find_Index_of_firstoccurence_insubstring.executor": "Run",
+    "Application.First_non_reapeated_character.executor": "Run",
+    "Application.How_to_count_words_Present_in_string.executor": "Run",
+    "Application.Java_program_to_swap_to_two_strings.executor": "Run",
+    "Application.Longest_Substring_Without_Repeating_Characters_Using_Sliding_Window_and_HashMap.executor": "Run",
+    "Application.Ocuurence_of_character_string.executor": "Run",
+    "Application.Pangram.executor": "Run",
+    "Application.Remove_duplicate_charcater_from_string.executor": "Run",
+    "Application.Remove_junk_character_from_string.executor": "Run",
+    "Application.Remove_white_space_in_string.executor": "Run",
+    "Application.ReplaceVowelswithx.executor": "Run",
+    "Application.Reverse_a_string.executor": "Run",
+    "Application.Reverse_a_string_2.executor": "Run",
+    "Application.Reverse_a_word_in_string.executor": "Run",
+    "Application.Reverse_a_word_in_string_1.executor": "Debug",
+    "Application.Reverse_each_word_in_string.executor": "Debug",
+    "Application.Reverse_only_letters.executor": "Run",
+    "Application.Reverse_only_vowels.executor": "Run",
+    "Application.Space_count.executor": "Run",
+    "Application.String2.executor": "Run",
+    "Application.String_1.executor": "Run",
+    "Application.String_character_occurence.executor": "Run",
+    "Application.String_reverse.executor": "Run",
+    "Application.Total_number_of_character_in_string.executor": "Run",
+    "Application.count_each_character_ocuurence.executor": "Run",
+    "Application.find_and_remove_duplicate_charcaters.executor": "Run",
+    "Application.string_is_palindrome_or_not.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Atul/IdeaProjects/String_In_java/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.Reverse_only_vowels">
-    <configuration name="Check_if_Substring_is_Present_in_a_Given_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Check_if_Substring_is_Present_in_a_Given_String" />
+}]]></component>
+  <component name="RunManager" selected="Application.Countspace">
+    <configuration name="Count_vowel_consonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Count_vowel_consonant" />
       <module name="String_In_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_Index_of_firstoccurence_insubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Find_Index_of_firstoccurence_insubstring" />
+    <configuration name="Countspace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Countspace" />
       <module name="String_In_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_Substring_Without_Repeating_Characters_Using_Sliding_Window_and_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Longest_Substring_Without_Repeating_Characters_Using_Sliding_Window_and_HashMap" />
+    <configuration name="Java_program_to_swap_to_two_strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_program_to_swap_to_two_strings" />
       <module name="String_In_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_only_letters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reverse_only_letters" />
+    <configuration name="Pangram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pangram" />
       <module name="String_In_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_only_vowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reverse_only_vowels" />
+    <configuration name="ReplaceVowelswithx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplaceVowelswithx" />
       <module name="String_In_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Reverse_only_vowels" />
-        <item itemvalue="Application.Reverse_only_letters" />
-        <item itemvalue="Application.Check_if_Substring_is_Present_in_a_Given_String" />
-        <item itemvalue="Application.Find_Index_of_firstoccurence_insubstring" />
-        <item itemvalue="Application.Longest_Substring_Without_Repeating_Characters_Using_Sliding_Window_and_HashMap" />
+        <item itemvalue="Application.Countspace" />
+        <item itemvalue="Application.Java_program_to_swap_to_two_strings" />
+        <item itemvalue="Application.Count_vowel_consonant" />
+        <item itemvalue="Application.Pangram" />
+        <item itemvalue="Application.ReplaceVowelswithx" />
       </list>
     </recent_temporary>
   </component>
