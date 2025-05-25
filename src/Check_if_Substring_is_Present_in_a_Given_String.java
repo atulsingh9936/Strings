@@ -7,7 +7,7 @@ public static boolean isSubstring(String main, String sub){
 
 
 
-    public static void main(String[] args) {
+public static void main(String[] args) {
 
         System.out.println(isSubstring("naveen automation labs","labs"));
         System.out.println(isSubstring("naveen automation labs","naveen"));

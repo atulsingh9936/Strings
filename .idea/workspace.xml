@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a884b0a-9d1f-412d-a949-68b084562d59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Find_length_of_string_without_using_length_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Program_to_Convert_a_Number_to_a_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Swap_two_string_using_String_Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Swap_two_string_using_temp_variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coomon_charcater_Three_strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concatenate_Two_Strings_Without_Using_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Remove_a_Specific_Character_from_a_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replace_a_charcater_in_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Split_an_array_into_string.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Check_if_Substring_is_Present_in_a_Given_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Check_if_Substring_is_Present_in_a_Given_String.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,7 @@
     "Application.Anagram.executor": "Run",
     "Application.Anagram_2.executor": "Run",
     "Application.Check_if_Substring_is_Present_in_a_Given_String.executor": "Run",
+    "Application.Concatenate_Two_Strings_Without_Using_Operator.executor": "Run",
     "Application.Count_character.executor": "Run",
     "Application.Count_vowel_consonant.executor": "Run",
     "Application.Countspace.executor": "Run",
@@ -51,6 +51,7 @@
     "Application.Duplicate_character_in_string.executor": "Run",
     "Application.Duplicate_words_ina_string.executor": "Run",
     "Application.Find_Index_of_firstoccurence_insubstring.executor": "Run",
+    "Application.Find_length_of_string_without_using_length_method.executor": "Run",
     "Application.First_non_reapeated_character.executor": "Run",
     "Application.How_to_count_words_Present_in_string.executor": "Run",
     "Application.Java_Program_to_Convert_a_Number_to_a_String.executor": "Run",
@@ -58,10 +59,12 @@
     "Application.Longest_Substring_Without_Repeating_Characters_Using_Sliding_Window_and_HashMap.executor": "Run",
     "Application.Ocuurence_of_character_string.executor": "Run",
     "Application.Pangram.executor": "Run",
+    "Application.Remove_a_Specific_Character_from_a_String.executor": "Run",
     "Application.Remove_duplicate_charcater_from_string.executor": "Run",
     "Application.Remove_junk_character_from_string.executor": "Run",
     "Application.Remove_white_space_in_string.executor": "Run",
     "Application.ReplaceVowelswithx.executor": "Run",
+    "Application.Replace_a_charcater_in_string.executor": "Run",
     "Application.Reverse_a_string.executor": "Run",
     "Application.Reverse_a_string_2.executor": "Run",
     "Application.Reverse_a_word_in_string.executor": "Run",
@@ -70,6 +73,7 @@
     "Application.Reverse_only_letters.executor": "Run",
     "Application.Reverse_only_vowels.executor": "Run",
     "Application.Space_count.executor": "Run",
+    "Application.Split_an_array_into_string.executor": "Run",
     "Application.String2.executor": "Run",
     "Application.String_1.executor": "Run",
     "Application.String_basic.executor": "Run",
@@ -88,7 +92,14 @@
     "onboarding.tips.debug.path": "C:/Users/Atul/IdeaProjects/String_In_java/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Find_length_of_string_without_using_length_method">
+  <component name="RunManager" selected="Application.Concatenate_Two_Strings_Without_Using_Operator">
+    <configuration name="Concatenate_Two_Strings_Without_Using_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Concatenate_Two_Strings_Without_Using_Operator" />
+      <module name="String_In_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Find_length_of_string_without_using_length_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Find_length_of_string_without_using_length_method" />
       <module name="String_In_java" />
@@ -96,29 +107,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_Program_to_Convert_a_Number_to_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Program_to_Convert_a_Number_to_a_String" />
+    <configuration name="Remove_a_Specific_Character_from_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Remove_a_Specific_Character_from_a_String" />
       <module name="String_In_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_basic" />
+    <configuration name="Replace_a_charcater_in_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replace_a_charcater_in_string" />
       <module name="String_In_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swap_two_string_using_String_Builder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Swap_two_string_using_String_Builder" />
-      <module name="String_In_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="coomon_charcater_Three_strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coomon_charcater_Three_strings" />
+    <configuration name="Split_an_array_into_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Split_an_array_into_string" />
       <module name="String_In_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Concatenate_Two_Strings_Without_Using_Operator" />
+        <item itemvalue="Application.Remove_a_Specific_Character_from_a_String" />
+        <item itemvalue="Application.Split_an_array_into_string" />
+        <item itemvalue="Application.Replace_a_charcater_in_string" />
         <item itemvalue="Application.Find_length_of_string_without_using_length_method" />
-        <item itemvalue="Application.String_basic" />
-        <item itemvalue="Application.coomon_charcater_Three_strings" />
-        <item itemvalue="Application.Swap_two_string_using_String_Builder" />
-        <item itemvalue="Application.Java_Program_to_Convert_a_Number_to_a_String" />
       </list>
     </recent_temporary>
   </component>
